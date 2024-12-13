@@ -34,4 +34,6 @@ The full repository structure includes:
 └── Preview.gif        # Preview of the presentation or demo
 ```
 
-For any contributions or feedback, feel free to contribute directly to the [main repository](https://github.com/Ryan-PG/AI-Gathering-LLM-Presentation). Thank you for your interest in **Large Language Models**!
+For any contributions or feedback, feel free to contribute directly to the [main repository](https://github.com/Ryan-PG/AI-Gathering-LLM-Presentation). 
+
+Thank you for your interest in **Large Language Models**!
