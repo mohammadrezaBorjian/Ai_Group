@@ -58,6 +58,7 @@ Each session has its own directory containing:
   *Speaker: Alireza Mohammadi - a.rezamohmmadi369@gmail.com*
   
 #### 8. An Overview of Supervised and Unsupervised Learning (Nur Sajadi) 
+- **An Overview of Supervised and Unsupervised Learning**
   *For more details about this topic, navigate to the `08 - An Overview of Supervised and Unsupervised Learning (Nur Sajadi)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
   *Speaker: Nur Sajadi - nursajadiii@gmail.com*
 ---
