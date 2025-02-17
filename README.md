@@ -56,6 +56,10 @@ Each session has its own directory containing:
 - **Reinforcement Learning**: Introduction and explanation of reinforcement learning and explanation of its algorithms.  
   *For more details about this topic, navigate to the `07 - Reinforcement Learning (Alireza Mohammadi)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
   *Speaker: Alireza Mohammadi - a.rezamohmmadi369@gmail.com*
+  
+#### 8. An Overview of Supervised and Unsupervised Learning (Nur Sajadi) 
+  *For more details about this topic, navigate to the `08 - An Overview of Supervised and Unsupervised Learning (Nur Sajadi)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
+  *Speaker: Nur Sajadi - nursajadiii@gmail.com*
 ---
 
 ## Contact Us:  
