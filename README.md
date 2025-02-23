@@ -39,12 +39,12 @@ Each session has its own directory containing:
 
 #### 4. LLMs (Ryan Heida) 
 - **LLMs (Large Language Models)**: Explore their architecture, applications, and practical examples.  
-  *For more details about this topic, navigate to the `04 - LLMs (Ryan-Heida)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
+  *For more details about this topic, navigate to the `04 - LLMs (Ryan-Heida)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*  
   *Speaker: Ryan Heida - mr.ryanheida@gmail.com*
 
 #### 5. Prompt Engineering and RAGs (Ryan Heida) 
 - **Prompt Engineering and RAGs**: Explore their architecture, applications, and practical examples.  
-  *For more details about this topic, navigate to the `05 - Prompt Engineering and RAGs (Ryan-Heida)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
+  *For more details about this topic, navigate to the `05 - Prompt Engineering and RAGs (Ryan-Heida)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*  
   *Speaker: Ryan Heida - mr.ryanheida@gmail.com*
 
 #### 6. MLP and RNN (Mahdi Farahani) 
@@ -58,8 +58,15 @@ Each session has its own directory containing:
   *Speaker: Alireza Mohammadi - a.rezamohmmadi369@gmail.com*
   
 #### 8. An Overview of Supervised and Unsupervised Learning (Nur Sajadi) 
-  *For more details about this topic, navigate to the `08 - An Overview of Supervised and Unsupervised Learning (Nur Sajadi)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
+- **An Overview of Supervised and Unsupervised Learning**
+  *For more details about this topic, navigate to the `08 - An Overview of Supervised and Unsupervised Learning (Nur Sajadi)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*  
   *Speaker: Nur Sajadi - nursajadiii@gmail.com*
+
+#### 8. Computer Vision (Ali Amoori) 
+- **How Computer can see**  
+  *For more details about this topic, navigate to the `08 - An Overview of Supervised and Unsupervised Learning (Nur Sajadi)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
+  *Speaker: Nur Sajadi - nursajadiii@gmail.com*  
+  *News: Ryan Heida - mr.ryanheida@gmail.com*
 ---
 
 ## Contact Us:  
