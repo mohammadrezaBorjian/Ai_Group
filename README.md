@@ -62,7 +62,7 @@ Each session has its own directory containing:
   *For more details about this topic, navigate to the `08 - An Overview of Supervised and Unsupervised Learning (Nur Sajadi)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*  
   *Speaker: Nur Sajadi - nursajadiii@gmail.com*
 
-#### 8. Computer Vision (Ali Amoori) 
+#### 9. Computer Vision (Ali Amoori) 
 - **How Computer can see**  
   *For more details about this topic, navigate to the `08 - An Overview of Supervised and Unsupervised Learning (Nur Sajadi)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
   *Speaker: Nur Sajadi - nursajadiii@gmail.com*  
