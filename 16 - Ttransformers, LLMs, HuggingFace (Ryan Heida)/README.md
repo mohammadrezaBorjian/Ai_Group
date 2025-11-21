@@ -8,6 +8,12 @@ To explore the full presentation materials, visit the main repository:
 
 👉 [Ryan-PG/AI-Gathering-Transformers-LLMs-HuggingFace](https://github.com/Ryan-PG/AI-Gathering-Transformers-LLMs-HuggingFace)
 
+## YouTube Videos
+
+You can watch the video of the presentation on YouTube as soon as the videos are released.
+
+[![نگاهی به Transformers و LLMها | آشنایی با HuggingFace و کار با آن | جلسه 16 Epoch Club](https://img.youtube.com/vi/t_vVEmu4p08/0.jpg)](https://www.youtube.com/watch?v=t_vVEmu4p08&list=PLwUWEGKy5kyMFKAqXh4D8tkd8jrDXcw6i&index=8)
+
 ## Preview
 
 ![Preview](https://github.com/Ryan-PG/AI-Gathering-Transformers-LLMs-HuggingFace/raw/main/Preview.gif)
@@ -28,12 +34,6 @@ To explore the full presentation materials, visit the main repository:
 ├── Preview.gif                         # GIF preview of the presentation or demo
 └── README.md                           # This file
 ```
-
-## YouTube Video
-
-You can watch the video of the presentation on YouTube as soon as the videos are released.
-
-*Links will be updated soon.*
 
 ## Getting Started
 
