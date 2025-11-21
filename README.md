@@ -67,6 +67,11 @@ Each session has its own directory containing:
   *For more details about this topic, navigate to the `08 - An Overview of Supervised and Unsupervised Learning (Nur Sajadi)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
   *Speaker: Nur Sajadi - nursajadiii@gmail.com*  
   *News: Ryan Heida - mr.ryanheida@gmail.com*
+
+#### 16. Ttransformers, LLMs, HuggingFace (Ryan Heida) 
+- **Ttransformers, LLMs, HuggingFace**: Getting familiar with Transformers and LLMs then some info about HuggingFace spaces, models and dataset.  
+  *For more details about this topic, navigate to the `05 - Ttransformers, LLMs, HuggingFace (Ryan-Heida)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*  
+  *Speaker: Ryan Heida - mr.ryanheida@gmail.com*
 ---
 
 ## Contact Us:  
