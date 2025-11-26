@@ -71,6 +71,9 @@ Each session has its own directory containing:
 #### 16. Ttransformers, LLMs, HuggingFace (Ryan Heida) 
 - **Ttransformers, LLMs, HuggingFace**: Getting familiar with Transformers and LLMs then some info about HuggingFace spaces, models and dataset.  
   *For more details about this topic, navigate to the `05 - Ttransformers, LLMs, HuggingFace (Ryan-Heida)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*  
+#### 13. AI Flows, AI Agents and MCP (Ryan Heida) 
+- **AI Flows, AI Agents and MCP (Model-Context-Protocol)**: Explaining AI Flows and using AI Agents and also making MCP clear.  
+  *For more details about this topic, navigate to the `13 - AI Flows, AI Agents and MCP (Ryan-Heida) copy` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*  
   *Speaker: Ryan Heida - mr.ryanheida@gmail.com*
 ---
 
