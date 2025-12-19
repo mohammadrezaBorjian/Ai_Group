@@ -79,7 +79,11 @@ Each session has its own directory containing:
 
 #### 17. Kaggle, Huggingface Spaces and Google Colab (Ryan Heida) 
 - **Kaggle, Huggingface Spaces and Google Colab**: Familiarity with Kaggle, Google Colab and HF Spaces, as well as creating 2 Spaces for loading a desired model and working with them.  
-  *For more details about this topic, navigate to the `17. Kaggle, Huggingface Spaces and Google Colab (Ryan Heida) ` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.* 
+  *For more details about this topic, navigate to the `17. Kaggle, Huggingface Spaces and Google Colab (Ryan Heida)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.* 
+
+#### 18. Data Cleaning and Preprocessing (Ryan Heida) 
+- **Data Cleaning and Preprocessing**: Familiarity with Data Cleaning and Preprocessing for Classic ML and also specially for LLMs.  
+  *For more details about this topic, navigate to the `18. Data Cleaning and Preprocessing (Ryan Heida)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.* 
 ---
 
 ## Contact Us:  
